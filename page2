@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <link href="css/acceuil.css" rel="stylesheet" type="text/css"/>
+        <title>Équipement</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+            <ul>
+                <li><a href='acceuil.html'>accueil</a></li>
+                <li><a href='page1.html'>règlements</a></li>
+                <li><a href='page2.html'>matériel</a></li>
+            </ul>
+        <br>
+        <section>
+            <header>
+                <h1 class="titre">Terrain</h1>
+            </header>
+            <p>Le volley-ball se pratique le plus souvent en salle. Le terrain a une forme rectangulaire de 18 mètres de longueur sur 9 mètres de largeur. Les lignes de délimitation sont à l'intérieur du terrain. Une ligne centrale s'étend sous le filet sur toute la largeur du terrain et sépare les deux camps. Une ligne d'attaque est peinte au sol dans chaque moitié de terrain, à 3 mètres du filet ; elle est communément appelée « ligne des 3 mètres ».Les dimensions du terrain de volley ne varient jamais.(2 camps de 9 m x 9 m chacun que ce soit pour une équipe minime ou internationale.)
+                <img src='images/vol12.jpg' alt='terrain'>
+            </p>
+        </section>
+        <section>
+            <header>
+                <h2 class='titre'>Filet</h2>
+            </header>    
+                <p>Chaque équipe occupe une moitié du terrain séparée de l'autre par un filet d'un mètre de haut, dont la partie supérieure est placée à une hauteur variable en fonction de la catégorie d'âge des joueurs ou joueuses :
+                </p>
+                <table>
+                    <caption>Longueur du filet</caption>
+                    <tr>
+                        <th>Catégorie</th>
+                        <th>Masculins</th>
+                        <th>Féminines</th>
+                    </tr>
+                    <tr>
+                        <td>Seniors</td>
+                        <td>2,43m</td>
+                        <td>2,24m</td>
+                    </tr>
+                    <tr>
+                        <td>M20</td>
+                        <td>2,43m</td>
+                        <td>2,24m</td>
+                    </tr>
+                    <tr>
+                        <td>M17</td>
+                        <td>2,35m</td>
+                        <td>2,24m</td>
+                    </tr>
+                    <tr>
+                        <td>M15</td>
+                        <td>2,24m</td>
+                        <td>2,10m</td>
+                    </tr>
+                    <tr>
+                        <td>M13</td>
+                        <td>2,10m</td>
+                        <td>2,10m</td>
+                    </tr>
+                    <tr>
+                        <td>M11-M9</td>
+                        <td>2m</td>
+                        <td>2m</td>
+                    </tr>
+                </table>
+                
+                <p>Deux antennes (barres verticales également appelées « mires ») sont accrochées au filet à hauteur des limites du terrain (le filet est généralement plus large que ce dernier). Le ballon doit passer entre ces antennes lors des échanges entre équipes lors des phases de jeu. Deux bandes blanches, accolées aux antennes, sont situées sur le filet à la verticale des lignes de côté.
+                </p>
+                <img src='images/vol11.jpg' width='325' height='160' alt='filet'>
+                <img src='images/vol2.jpg' width='325' height='160' alt='filet2'>
+        </section>
+        <section>
+            <header>
+                <h2 class='titre'>Ballon</h2>
+            </header>
+            <p>Le ballon de volley-ball est plus souple et plus léger que celui de football. Il doit avoir une circonférence comprise entre 65 et 67 cm, une masse comprise entre 260 et 280 g et une pression comprise entre 0,30 et 0,3257 kg/cm3. Depuis 1978, pour diminuer le temps de jeu, trois ballons sont utilisés lors des rencontres internationales et nationales. Finies les pertes de temps pour le récupérer au service, puisque quatre ramasseurs de balles sont placés autour du terrain. Ce système a permis une diminution d'environ 20 % du temps de jeu.
+            </p>
+            <img src='images/vol3.jpg' width='360' height='360' alt='ballon'>
+            <img src='images/vol6.jpg' width='360' height='360' alt='ballon2'>
+            
+        </section>
+        <footer>
+            <p>La majorité des textes ont été tiré de <a href="https://fr.wikipedia.org/wiki/Volley-ball">wikipedia</a>
+            </p>
+        </footer>
+    </body>
+</html>
